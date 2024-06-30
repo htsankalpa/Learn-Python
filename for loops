@@ -1,0 +1,26 @@
+# act like single of numbers (for loops)
+# numbers = [1, 2, 3, 4, 5]
+# for item in numbers:
+#     print (item)
+
+# # while loops
+
+# i = 0
+# while i < len(numbers):
+#     print(numbers[i])
+#     i = i + 1
+
+
+# # range function
+# numbers = range(5, 10)
+# for number in numbers:
+#     print(number)
+
+
+# numbers = range(5, 10, 2) #range
+# for number in numbers:
+#     print(number)
+
+
+for number in range(50):
+    print(number)
