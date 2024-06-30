@@ -1,0 +1,14 @@
+# birth_year = input("Enter your birth year ")
+# age = 2024 - int(birth_year)
+# print(age) 
+
+# first_number = float(input("First "))
+# second_number = float(input("Second "))
+# sum =  float(first_number)+ float(second_number)
+# print(sum)
+
+course = "python for beginners"
+print(course.find("o"))
+print(course.replace('for','4'))
+print("python" in course) 
+# in is the special operater in python
